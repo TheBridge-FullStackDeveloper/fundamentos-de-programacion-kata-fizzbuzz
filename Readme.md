@@ -4,6 +4,7 @@
 
 ## Introducción ##
 ![He escrito fizzbuzz en 1500 líneas](fizzbuzz.png)
+
 La pesadilla de muchos programadores a la hora de enfrentarse a una entrevista de trabajo, quizás debido a su compleja algoritmia, o simplemente debido a su inusual razonamiento. 
 
 Sea como sea, tú seguro que serás capaz de conseguirlo!!
@@ -15,6 +16,7 @@ Sea como sea, tú seguro que serás capaz de conseguirlo!!
 
 ## Iteraciones ##
 ![Dame un fizzbuzz en pocas líneas de código](giveMe.png)
+
 Imprime todos los números del 1 al 1000 por consola, con la salvedad de todos aquellos números que sean múltiplos de 3 que en vez de imprimir el número, se imprimirá fizz y además, todos los números múltiplos de 5 que se imprimirá buzz.
 
 Salida por consola:
